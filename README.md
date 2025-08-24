@@ -1,8 +1,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Ítalo Eduardo Carneiro da Silva
+- Matricula: 898961
 
 ## Print da tela da página criada (Curriculum Vitae)
 
